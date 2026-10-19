@@ -1,0 +1,13 @@
+{
+  "name": "sena-date-maicolestidmontoyacarballo",
+  "version": "1.0.0",
+  "description": "Una utilidad que te permive per la fecha de manera larga o sea bastante descriptiva",
+  "license": "ISC",
+  "author": "Maicol Montoya",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node src/index.js"
+  }
+}
